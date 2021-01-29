@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+https://preview.themeforest.net/item/bako-personal-portfolio-resume-html-template/full_screen_preview/25599414?_ga=2.45153060.1439551454.1611562587-650042576.1598520066
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
