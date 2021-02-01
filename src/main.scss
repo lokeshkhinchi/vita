@@ -1,0 +1,21 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import './sass/simple-line-icons.scss';
+@import './sass/slick.scss';
+@import './sass/style.scss';
+
+html, body {
+  scroll-behavior: smooth;
+}
+
+.hash-anchor {
+  position: relative;
+  top: -130px;
+  display: block;
+  width: 0;
+  height: 1px;
+  opacity: 0;
+}
+
+.hero .hash-anchor {
+  top: -360px;
+}
